@@ -4,9 +4,7 @@ This is a git respiratory we use to learn about git by creating recipes
 
 ##JOLLOF RICE RECIPE
 
-### ABOUT THE RECIPE
-
- ###LIST OF INGREDIENTS
+## ABOUT THE RECIPE
 
 ### LIST OF INGREDIENTS
 
